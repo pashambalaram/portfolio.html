@@ -1,0 +1,26 @@
+ *{
+            color:greenyellow;
+        }
+         h1{
+            text-align: center;
+        }
+        p{
+            color: orange;
+        }
+        h3{
+            text-align: center;
+        }
+        .red{
+            color:yellow;
+        }
+       
+        #green{
+            color: blue;
+        }
+        li[value="2"]{
+
+        
+            color: blueviolet;
+        }
+       
+      
